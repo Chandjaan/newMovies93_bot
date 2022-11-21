@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """Hi {},
-I'm URL X Uploader!
+I'am telegram!t.me/Moive2024_bot
 You can upload HTTP/HTTPS direct link, Using this bot!
 
 /help for more details!"""
