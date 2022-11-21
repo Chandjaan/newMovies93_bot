@@ -28,8 +28,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 heroku/python
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CyniteOfficial/Uploader-Bot)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://t.me/Moive2024_bot
 
 ## 🍃 How To Get Mongodb URI - [ Watch Video ](https://youtu.be/bk3cinuwEfo)
 
